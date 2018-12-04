@@ -94,3 +94,4 @@ def handle_command(message):
     bot.send_message(message.chat.id, """Вы шагнули назад.
 Бот возвращается к предыдущему сообщение.""")
 bot.polling(none_stop=True, interval=0)
+убрал код
