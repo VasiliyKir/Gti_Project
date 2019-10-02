@@ -1,7 +1,7 @@
 #здесь идёт код
 import telebot
 
-bot = telebot.TeleBot("751363980:AAHYtCJmmUmmKCl_F7Swwo6zfrgLIA2xKno")
+bot = telebot.TeleBot("804226402:AAFBKaYCJe2SiJuJd-qvjevaU4TmLQyVtmw")
 
 # bot.send_message(404488278, "")
 
